@@ -4,9 +4,9 @@ Trabajo práctico grupal de la materia aprendizaje automático de la Maestría e
 
 
 # Requirements
-The project requires Python 3.13. Create a virtual environment and install the necessary packages using pip:
+Create a virtual environment and install the necessary packages using pip:
 ```bash
-python3.13 -m venv venv
+python3 -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 ```
 
