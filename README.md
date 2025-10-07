@@ -48,8 +48,8 @@ Sigue estos pasos para configurar el entorno de desarrollo.
 
 El orden de ejecución recomendado para los notebooks es el siguiente:
 
-1. **notebooks/eda.ipynb**: Ejecutar primero este notebook. Realizará el análisis exploratorio y generará los archivos de datos procesados necesarios para los siguientes pasos.
+1. **notebooks/eda.ipynb**: Ejecutar primero esta notebook. Realizará el análisis exploratorio y generará los archivos de datos procesados necesarios para los siguientes pasos.
    
-2. **notebooks/modelos_target_binaria.ipynb**: Una vez generados los datos, puedes ejecutar este notebook para entrenar y evaluar los modelos de clasificación binaria.
+2. **notebooks/modelos_target_binaria.ipynb**: Una vez generados los datos, ejecutar esta notebook para entrenar y evaluar los modelos de clasificación binaria.
    
-3. **notebooks/modelos_target_multiclase.ipynb**: De forma análoga, ejecuta este notebook para los modelos de clasificación multiclase.
+3. **notebooks/modelos_target_multiclase.ipynb**: De forma análoga, ejecuta esta notebook para los modelos de clasificación multiclase.
