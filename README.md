@@ -15,6 +15,7 @@ Forni, Sofía
     -   **eda.ipynb**: Realiza el Análisis Exploratorio de Datos (EDA) y el preprocesamiento. Al final, genera y guarda en la carpeta - data/ los dos datasets que se usarán para el modelado (uno para clasificación binaria y otro para multiclase).
     - **modelos_target_binaria.ipynb**: Entrena y evalúa modelos para predecir el objetivo binario (desertor / no desertor).
     - **modelos_target_multiclase.ipynb**: Entrena y evalúa modelos para predecir el objetivo multiclase.
+  
             - Desertor: 0
             - En Curso: 1
             - Graduado: 2
