@@ -30,7 +30,7 @@ Sigue estos pasos para configurar el entorno de desarrollo.
 
         git clone <URL_DEL_REPOSITORIO>
 
-        cd <NOMBRE_DEL_REPOSITORIO>
+        cd aprendizaje_automatico_desertores
 
 
 2. Crea y activa un entorno virtual:
