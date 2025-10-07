@@ -3,7 +3,9 @@
 Trabajo práctico grupal para la materia "Aprendizaje Automático" de la Maestría en Data Mining (UBA, 2025). El objetivo del proyecto es desarrollar y evaluar modelos de machine learning para predecir la deserción estudiantil.
 
 Alesandro, Guadalupe
+
 Firpo, María Florencia
+
 Forni, Sofía
 
 
