@@ -28,18 +28,20 @@ Sigue estos pasos para configurar el entorno de desarrollo.
 
 1. Clona el repositorio:
 
-git clone <URL_DEL_REPOSITORIO>
+        git clone <URL_DEL_REPOSITORIO>
 
-cd <NOMBRE_DEL_REPOSITORIO>
+        cd <NOMBRE_DEL_REPOSITORIO>
 
 
 2. Crea y activa un entorno virtual:
-python3 -m venv venv
-source venv/bin/activate  # En Windows usa: venv\Scripts\activate
+   
+        python3 -m venv venv
+        source venv/bin/activate  # En Windows usa: venv\Scripts\activate
 
 
-3. Instala las dependencias:
-pip install -r requirements.txt
+4. Instala las dependencias:
+
+       pip install -r requirements.txt
 
 
 ## Uso
