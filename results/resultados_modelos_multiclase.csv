@@ -1,0 +1,3 @@
+Modelo,Hiperparametros,Accuracy,F1_Score weighted,Precision weighted,Recall weighted,ROC-AUC multiclase ponderada,CV_F1_weighted_Mean,CV_F1_weighted_Std,Fecha
+KNN multiclase,"{'classifier__metric': 'manhattan', 'classifier__n_neighbors': 14, 'classifier__weights': 'distance'}",0.7709,0.7522,0.7643,0.7709,0.8754,0.7457,0.0025,2025-10-17 14:52:22
+Random Forest multiclase,"{'classifier__class_weight': 'balanced', 'classifier__max_depth': 20, 'classifier__min_samples_split': 5, 'classifier__n_estimators': 200}",0.7843,0.7803,0.7837,0.7843,0.9004,0.7804,0.0028,2025-10-17 14:55:07
