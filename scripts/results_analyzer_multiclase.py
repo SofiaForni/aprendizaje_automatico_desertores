@@ -203,7 +203,7 @@ class ResultsAnalyzerMulticlase:
             'Recall weighted': metricas['Recall weighted'],
             'ROC-AUC multiclase ponderada': metricas['ROC-AUC multiclase ponderada'],
             'CV_F1_weighted_Mean': round(grid_search.best_score_, 4),
-            'CV_F1_weighted_Std': round(grid_search.cv_results_[f'std_test_{grid_search.refit}'][grid_search.best_index_], 4),
+            'CV_F1_weighted_Std': round(grid_search.cv_results_['std_test_score'][grid_search.best_index_], 4),
             'Fecha': pd.Timestamp.now().strftime('%Y-%m-%d %H:%M:%S')
         }
         
