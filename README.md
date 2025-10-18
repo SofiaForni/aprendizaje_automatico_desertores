@@ -19,8 +19,7 @@ Forni, Sofía
     - **modelos_target_binaria.ipynb**: Entrena y evalúa modelos para predecir el objetivo binario (desertor / no desertor).
   
             - Desertor: 1
-            - En Curso: 0
-            - Graduado: 0
+            - No desertor (En Curso y Graduado): 0
       
     - **modelos_target_multiclase.ipynb**: Entrena y evalúa modelos para predecir el objetivo multiclase.
   
